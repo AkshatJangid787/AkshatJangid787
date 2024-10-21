@@ -24,6 +24,12 @@
   
 </div>
 
+<h2 align="center">🌟 Achievements</h2>
+
+[![An image of @akshatjangid787's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akshatjangid787)](https://holopin.io/@akshatjangid787)
+
+
+
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <p align="center">
@@ -44,16 +50,16 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshatjangid787&show_icons=true&theme=radical&title_color=f39c12&icon_color=f39c12&bg_color=1a1b27&text_color=ffffff&border_color=f39c12" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshatjangid787&theme=midnight-purple&show_icons=true&hide_border=true&include_all_commits=false&count_private=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatjangid787&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatjangid787&theme=midnight-purple&hide_border=true" />
+</div>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatjangid787&theme=radical&ring=f39c12&fire=f39c12&currStreakLabel=f39c12&background=1a1b27&border=f39c12" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatjangid787&layout=compact&theme=radical&title_color=f39c12&bg_color=1a1b27&text_color=ffffff&border_color=f39c12" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshatjangid787&bg_color=0D1117&color=58a6ff&line=58a6ff&point=F85149&area=true&area_color=444C56&hide_border=true">
 </p>
 
 <h2 align="center">🤝 Connect with Me</h2>
