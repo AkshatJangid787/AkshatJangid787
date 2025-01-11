@@ -5,10 +5,6 @@
 <h3 align="center">🚀 Passionate Full Stack Web Developer (MERN Stack) & Lifelong Learner 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akshatjangid787&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=akshatjangid787&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
   </a>
@@ -48,19 +44,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshatjangid787&theme=midnight-purple&show_icons=true&hide_border=true&include_all_commits=false&count_private=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatjangid787&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatjangid787&theme=midnight-purple&hide_border=true" />
-</div>
-
 ---
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshatjangid787&bg_color=0D1117&color=58a6ff&line=58a6ff&point=F85149&area=true&area_color=444C56&hide_border=true">
-</p>
 
 <h2 align="center">🤝 Connect with Me</h2>
 
