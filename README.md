@@ -17,7 +17,7 @@
 ## 🚀 About Me
 - 🌱 Currently Learning **Advanced MERN & DevOps**
 - 🔭 Working on **Scalable Web Projects**
-- 💬 Ask me about **MERN, DSA, DevOps **
+- 💬 Ask me about **MERN, DSA, DevOps**
 
 ---
 
